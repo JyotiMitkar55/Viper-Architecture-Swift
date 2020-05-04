@@ -1,0 +1,395 @@
+[
+  {
+    "popularity": 220.799,
+    "id": 454626,
+    "video": false,
+    "vote_count": 2868,
+    "vote_average": 7.5,
+    "title": "Sonic the Hedgehog",
+    "release_date": "2020-02-12",
+    "original_language": "en",
+    "original_title": "Sonic the Hedgehog",
+    "genre_ids": [
+      28,
+      878,
+      35,
+      10751
+    ],
+    "backdrop_path": "/stmYfCUGd8Iy6kAMBr6AmWqx8Bq.jpg",
+    "adult": false,
+    "overview": "Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgehog tells the story of the world’s speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination.",
+    "poster_path": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg"
+  },
+  {
+    "popularity": 172.304,
+    "vote_count": 312,
+    "video": false,
+    "poster_path": "/7W0G3YECgDAfnuiHG91r8WqgIOe.jpg",
+    "id": 446893,
+    "adult": false,
+    "backdrop_path": "/qsxhnirlp7y4Ae9bd11oYJSX59j.jpg",
+    "original_language": "en",
+    "original_title": "Trolls World Tour",
+    "genre_ids": [
+      12,
+      16,
+      35,
+      14,
+      10402,
+      10751
+    ],
+    "title": "Trolls World Tour",
+    "vote_average": 7.7,
+    "overview": "Queen Poppy and Branch make a surprising discovery — there are other Troll worlds beyond their own, and their distinct differences create big clashes between these various tribes. When a mysterious threat puts all of the Trolls across the land in danger, Poppy, Branch, and their band of friends must embark on an epic quest to create harmony among the feuding Trolls to unite them against certain doom.",
+    "release_date": "2020-03-12"
+  },
+  {
+    "popularity": 263.064,
+    "vote_count": 789,
+    "video": false,
+    "poster_path": "/gzlbb3yeVISpQ3REd3Ga1scWGTU.jpg",
+    "id": 443791,
+    "adult": false,
+    "backdrop_path": "/fYPiQewg7ogbzro2XcCTACSB2KC.jpg",
+    "original_language": "en",
+    "original_title": "Underwater",
+    "genre_ids": [
+      28,
+      27,
+      878,
+      53
+    ],
+    "title": "Underwater",
+    "vote_average": 6.5,
+    "overview": "After an earthquake destroys their underwater station, six researchers must navigate two miles along the dangerous, unknown depths of the ocean floor to make it to safety in a race against time.",
+    "release_date": "2020-01-08"
+  },
+  {
+    "popularity": 187.216,
+    "vote_count": 1728,
+    "video": false,
+    "poster_path": "/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg",
+    "id": 338762,
+    "adult": false,
+    "backdrop_path": "/ocUrMYbdjknu2TwzMHKT9PBBQRw.jpg",
+    "original_language": "en",
+    "original_title": "Bloodshot",
+    "genre_ids": [
+      28,
+      878
+    ],
+    "title": "Bloodshot",
+    "vote_average": 7.2,
+    "overview": "After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine—'Bloodshot'. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there's more to the conspiracy than he thought.",
+    "release_date": "2020-03-05"
+  },
+  {
+    "popularity": 157.757,
+    "vote_count": 311,
+    "video": false,
+    "poster_path": "/8ZMrZGGW65ePWIgRn1260nA1uUm.jpg",
+    "id": 539537,
+    "adult": false,
+    "backdrop_path": "/x80ZIVGUJ6plcUBcgVZ6DPKT7vc.jpg",
+    "original_language": "en",
+    "original_title": "Fantasy Island",
+    "genre_ids": [
+      14,
+      27,
+      878
+    ],
+    "title": "Fantasy Island",
+    "vote_average": 5.5,
+    "overview": "A group of contest winners arrive at an island hotel to live out their dreams, only to find themselves trapped in nightmare scenarios.",
+    "release_date": "2020-02-12"
+  },
+  {
+    "popularity": 143.096,
+    "vote_count": 1270,
+    "video": false,
+    "poster_path": "/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg",
+    "id": 508439,
+    "adult": false,
+    "backdrop_path": "/xFxk4vnirOtUxpOEWgA1MCRfy6J.jpg",
+    "original_language": "en",
+    "original_title": "Onward",
+    "genre_ids": [
+      12,
+      16,
+      35,
+      14,
+      10751
+    ],
+    "title": "Onward",
+    "vote_average": 8,
+    "overview": "In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.",
+    "release_date": "2020-02-29"
+  },
+  {
+    "popularity": 109.472,
+    "vote_count": 2442,
+    "video": false,
+    "poster_path": "/8ZX18L5m6rH5viSYpRnTSbb9eXh.jpg",
+    "id": 619264,
+    "adult": false,
+    "backdrop_path": "/3tkDMNfM2YuIAJlvGO6rfIzAnfG.jpg",
+    "original_language": "es",
+    "original_title": "El hoyo",
+    "genre_ids": [
+      18,
+      878
+    ],
+    "title": "The Platform",
+    "vote_average": 7.1,
+    "overview": "A mysterious place, an indescribable prison, a deep hole. An unknown number of levels. Two inmates living on each level. A descending platform containing food for all of them. An inhuman fight for survival, but also an opportunity for solidarity…",
+    "release_date": "2019-11-08"
+  },
+  {
+    "popularity": 101.442,
+    "vote_count": 572,
+    "video": false,
+    "poster_path": "/4YJNp1cquIkX8JxFwkKNEFQ9tgr.jpg",
+    "id": 522212,
+    "adult": false,
+    "backdrop_path": "/4x2AKefQtj8TmzxyRJEEdAayj1V.jpg",
+    "original_language": "en",
+    "original_title": "Just Mercy",
+    "genre_ids": [
+      80,
+      18
+    ],
+    "title": "Just Mercy",
+    "vote_average": 8,
+    "overview": "The powerful true story of Harvard-educated lawyer Bryan Stevenson, who goes to Alabama to defend the disenfranchised and wrongly condemned — including Walter McMillian, a man sentenced to death despite evidence proving his innocence. Bryan fights tirelessly for Walter with the system stacked against them.",
+    "release_date": "2019-12-25"
+  },
+  {
+    "popularity": 89.67,
+    "vote_count": 119,
+    "video": false,
+    "poster_path": "/n2C6jRK9PtPIs99RQhKtqGlsnsO.jpg",
+    "id": 592834,
+    "adult": false,
+    "backdrop_path": "/yalJdTsb6EcDX5devj2ltWXuceO.jpg",
+    "original_language": "en",
+    "original_title": "My Spy",
+    "genre_ids": [
+      28,
+      35,
+      10751
+    ],
+    "title": "My Spy",
+    "vote_average": 7.2,
+    "overview": "A hardened CIA operative finds himself at the mercy of a precocious 9-year-old girl, having been sent undercover to surveil her family.",
+    "release_date": "2020-02-27"
+  },
+  {
+    "popularity": 98.825,
+    "vote_count": 53,
+    "video": false,
+    "poster_path": "/jgLlp0jF1EDG8N1rAulAUlv9pL6.jpg",
+    "id": 653744,
+    "adult": false,
+    "backdrop_path": "/a2UDJvvyDANSKcBRtEDLExVK0Pg.jpg",
+    "original_language": "en",
+    "original_title": "Sergio",
+    "genre_ids": [
+      18
+    ],
+    "title": "Sergio",
+    "vote_average": 7.4,
+    "overview": "A sweeping drama set in the chaotic aftermath of the US invasion of Iraq, where the life of top UN diplomat Sergio Vieira de Mello hangs in the balance during the most treacherous mission of his career.",
+    "release_date": "2020-04-17"
+  },
+  {
+    "popularity": 84.566,
+    "vote_count": 1524,
+    "video": false,
+    "poster_path": "/5EufsDwXdY2CVttYOk2WtYhgKpa.jpg",
+    "id": 570670,
+    "adult": false,
+    "backdrop_path": "/uZMZyvarQuXLRqf3xdpdMqzdtjb.jpg",
+    "original_language": "en",
+    "original_title": "The Invisible Man",
+    "genre_ids": [
+      27,
+      878,
+      53
+    ],
+    "title": "The Invisible Man",
+    "vote_average": 7.2,
+    "overview": "When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.",
+    "release_date": "2020-02-26"
+  },
+  {
+    "popularity": 83.501,
+    "vote_count": 1220,
+    "video": false,
+    "poster_path": "/xnjvwfDulnOCy8qtYX0iqydmMhk.jpg",
+    "id": 448119,
+    "adult": false,
+    "backdrop_path": "/xcUf6yIheo78btFqihlRLftdR3M.jpg",
+    "original_language": "en",
+    "original_title": "Dolittle",
+    "genre_ids": [
+      12,
+      35,
+      14,
+      10751
+    ],
+    "title": "Dolittle",
+    "vote_average": 6.8,
+    "overview": "After losing his wife seven years earlier, the eccentric Dr. John Dolittle, famed doctor and veterinarian of Queen Victoria’s England, hermits himself away behind the high walls of Dolittle Manor with only his menagerie of exotic animals for company. But when the young queen falls gravely ill, a reluctant Dolittle is forced to set sail on an epic adventure to a mythical island in search of a cure, regaining his wit and courage as he crosses old adversaries and discovers wondrous creatures.",
+    "release_date": "2020-01-01"
+  },
+  {
+    "popularity": 102.318,
+    "vote_count": 2,
+    "video": false,
+    "poster_path": "/cnFMQmQQPcGjXjDhLAdSkLm7Lf.jpg",
+    "id": 527382,
+    "adult": false,
+    "backdrop_path": "/oQzNdjtqsrUR9mnntGwp67dg9Co.jpg",
+    "original_language": "en",
+    "original_title": "Bad Therapy",
+    "genre_ids": [
+      35
+    ],
+    "title": "Bad Therapy",
+    "vote_average": 1,
+    "overview": "Married couple Bob and Susan Howard decide to see a marriage counselor named Judy Small, who appears trustworthy but harbors dark and conflicted impulses",
+    "release_date": "2020-04-17"
+  },
+  {
+    "popularity": 61.946,
+    "vote_count": 165,
+    "video": false,
+    "poster_path": "/ifn7yLH7W69MdrEEkNzCyO8rTmL.jpg",
+    "id": 526019,
+    "adult": false,
+    "backdrop_path": "/wMv7GL12s0bJmfv3ckdglOCQ8B3.jpg",
+    "original_language": "en",
+    "original_title": "Like a Boss",
+    "genre_ids": [
+      35
+    ],
+    "title": "Like a Boss",
+    "vote_average": 6.5,
+    "overview": "Two female friends with very different ideals decide to start a beauty company together. One is more practical, while the other wants to earn her fortune and live a lavish lifestyle.",
+    "release_date": "2020-01-09"
+  },
+  {
+    "popularity": 65.102,
+    "vote_count": 23,
+    "video": false,
+    "poster_path": "/v1DbnzXChoymNghOGAjFUZ9KYP1.jpg",
+    "id": 430155,
+    "adult": false,
+    "backdrop_path": "/oVLGuq431nF3f0yDi07q1gL4ehK.jpg",
+    "original_language": "ru",
+    "original_title": "Кома",
+    "genre_ids": [
+      28,
+      14,
+      10749
+    ],
+    "title": "The Coma",
+    "vote_average": 5.7,
+    "overview": "After a colossal and mysterious accident a young talented architect comes back to his senses in a very odd world that only resembles the reality. This world is based on the memories of the ones who live in it - people who are currently finding themselves in a deep coma. Human memory is spotty, chaotic and unstable. The same is the COMA - odd collection of memories and recollections - cities, glaciers and rivers can all be found in one room. All the laws of physics can be broken. The architect must find out the exact laws and regulations of COMA as he fights for his life, meets the love of his life and keeps on looking for the exit to the real world which he will have to get acquainted with all over again after the experience of COMA.",
+    "release_date": "2019-11-19"
+  },
+  {
+    "popularity": 88.67,
+    "vote_count": 455,
+    "video": false,
+    "poster_path": "/2kNnf7BwRCEm4bcFkdiE0T4U25s.jpg",
+    "id": 457335,
+    "adult": false,
+    "backdrop_path": "/fssCO59bqU5f0zngeYKex0g1vyb.jpg",
+    "original_language": "en",
+    "original_title": "Guns Akimbo",
+    "genre_ids": [
+      28,
+      35
+    ],
+    "title": "Guns Akimbo",
+    "vote_average": 6.4,
+    "overview": "An ordinary guy suddenly finds himself forced to fight a gladiator-like battle for a dark website that streams the violence for viewers. Miles must fight heavily armed Nix and also save his kidnapped ex-girlfriend.",
+    "release_date": "2020-02-27"
+  },
+  {
+    "popularity": 54.229,
+    "vote_count": 138,
+    "video": false,
+    "poster_path": "/zwgPO5bamUuajIAEc02q9XZ2qhq.jpg",
+    "id": 529485,
+    "adult": false,
+    "backdrop_path": "/5mubFanEHVFJff4jLQH0uIOThMz.jpg",
+    "original_language": "en",
+    "original_title": "The Way Back",
+    "genre_ids": [
+      18
+    ],
+    "title": "The Way Back",
+    "vote_average": 6.6,
+    "overview": "A former basketball all-star, who has lost his wife and family foundation in a struggle with addiction attempts to regain his soul and salvation by becoming the coach of a disparate ethnically mixed high school basketball team at his alma mater.",
+    "release_date": "2020-03-05"
+  },
+  {
+    "popularity": 70.22,
+    "vote_count": 504,
+    "video": false,
+    "poster_path": "/rmflsMjk4lxx2foNUtd1OKWv6vB.jpg",
+    "id": 514847,
+    "adult": false,
+    "backdrop_path": "/qfQ78ZKiouoM2yhAnfNblp9ijQE.jpg",
+    "original_language": "en",
+    "original_title": "The Hunt",
+    "genre_ids": [
+      28,
+      27,
+      53
+    ],
+    "title": "The Hunt",
+    "vote_average": 6.8,
+    "overview": "Twelve strangers wake up in a clearing. They don't know where they are—or how they got there. In the shadow of a dark internet conspiracy theory, ruthless elitists gather at a remote location to hunt humans for sport. But their master plan is about to be derailed when one of the hunted turns the tables on her pursuers.",
+    "release_date": "2020-03-11"
+  },
+  {
+    "popularity": 61.902,
+    "vote_count": 1839,
+    "video": false,
+    "poster_path": "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg",
+    "id": 331482,
+    "adult": false,
+    "backdrop_path": "/3uTxPIdVEXxHpsHOHdJC24QebBV.jpg",
+    "original_language": "en",
+    "original_title": "Little Women",
+    "genre_ids": [
+      18,
+      10749
+    ],
+    "title": "Little Women",
+    "vote_average": 7.9,
+    "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
+    "release_date": "2019-12-25"
+  },
+  {
+    "popularity": 46.892,
+    "vote_count": 3,
+    "video": false,
+    "poster_path": "/1dugrX6FwRuN3miHi9yWqJumOYz.jpg",
+    "id": 684139,
+    "adult": false,
+    "backdrop_path": "/rHTmrP2D9N2XNlFdHVHw0F2cf4h.jpg",
+    "original_language": "en",
+    "original_title": "Behind You",
+    "genre_ids": [
+      27
+    ],
+    "title": "Behind You",
+    "vote_average": 7,
+    "overview": "Two young sisters find that all the mirrors in their estranged aunt's house are covered or hidden. When one of them happens upon a mirror in the basement, she unknowingly releases a malicious demon.",
+    "release_date": "2020-04-17"
+  }
+]
